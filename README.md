@@ -42,3 +42,5 @@ Safari/Firefox, a full keyboard-only end-to-end run, screen-reader/contrast audi
 `src/` contains React/TypeScript and tests; `public/branding/` contains the unchanged approved logo; `scripts/` contains the local server and browser verification; `docs/` records requirements, architecture, decisions, QA, release and task progress. The dependency lockfile and demonstration screenshots are included. Dependencies, generated builds, caches and local test output are not committed.
 
 Public contact: navrenlotech@gmail.com
+
+![Onboarding dashboard, version 0.2.0](screenshots/redesign-desktop.png)

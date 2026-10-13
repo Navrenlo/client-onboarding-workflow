@@ -5,3 +5,7 @@ playwright-report/
 *.log
 .npm-cache/
 work/
+.env
+.env.*
+*.pem
+*.key
